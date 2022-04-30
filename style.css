@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: blue;
+    font-family:TrebuchetMS;
+}
+p{
+    color:black;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#score{
+    font-size: 26px;
+float: left;
+}
+
+#time{
+    font-size: 26px;
+float: right;
+}
